@@ -1,3 +1,5 @@
 My expectations for CMSC 100 is to learn how to develop websites using the MERN stack. 
 I also want to improve in designing the Ui/UX of websites using Figma.
 And I expect to enjoy this class and learn new things I can use in the future. 
+
+hello
